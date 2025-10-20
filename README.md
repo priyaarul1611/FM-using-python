@@ -62,7 +62,7 @@ TABULATION:
 
 CALCULATION:
 
-<img width="900" height="1000" alt="image" src="https://github.com/user-attachments/assets/bc2e2846-bee5-4daa-ac28-b420408de03a" />
+<img width="800" height="1000" alt="image" src="https://github.com/user-attachments/assets/bc2e2846-bee5-4daa-ac28-b420408de03a" />
 
 Frequency Deviation Practical = 834
 
